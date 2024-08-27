@@ -8,6 +8,8 @@ Mis intereses tecnológicos son bastante variados, ya que he estado involucrado 
 
 Me encantaría que pudieras echarle un vistazo a lo que estoy haciendo y mostrarme tu apoyo 😊🙏. Saludos a todos y espero que encuentres cosas interesantes y útiles aquí.
 
+## Tecnologías de Desarrollo
+[![Mi Tech Stack](https://skillicons.dev/icons?i=html,js,react,css,bootstrap,tailwind,laravel,php,mysql,postgres)](https://danespino.instantfolio.online/devstack)
 
 ## Contáctame
 
