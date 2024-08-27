@@ -8,6 +8,8 @@ My tech interests are quite varied, as I've been involved in tech during differe
 
 I would love it if you could check out what I'm working on and show some support 😊🙏. Greetings to everyone, and I hope you find some cool/helpful stuff here.
 
+## Tech Stack
+[![My Tech Stack](https://skillicons.dev/icons?i=html,js,react,css,bootstrap,tailwind,laravel,php,mysql,postgres)](https://danespino.instantfolio.online/devstack)
 
 ## Contact Me
 
